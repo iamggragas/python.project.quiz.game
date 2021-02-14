@@ -1,0 +1,15 @@
+Category: Capital 1. What is the capital of France?
+Category: Country 2. What country has a capital city of Tokyo?
+Category: Capital 3. What is the capital of Philippines?
+Category: Country 4. What country has a capital city of Madrid?
+Category: Capital 5. What is the capital of China?
+Category: Capital 6. What is the capital of Taiwan?
+Category: Country 7. What country has a capital city of London?
+Category: Country 8. What country has a capital of Bangkok?
+Category: Capital 9. What is the capital of Russia?
+Category: Country 10. what country has a capital of Singapore?
+Category: Capital 11. What is the capital of USA?
+Category: Country 12. What country has a capital of Mexico City?
+Category: Capital 13. What is the capital of Germany?
+Category: Country 14. What country has a capital of Kuala Lumpur?
+Category: Capital 15. What is the capital of Australia? 

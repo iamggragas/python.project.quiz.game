@@ -1,0 +1,15 @@
+a. Paris,b. London, c. Prague
+a. South Korea, b. Japan, c. China
+a. Manila, b. Beijing, c. Quezon City
+a. Spain, b. Argentina, c. Valencia
+a. Manila, b. Seoul, c. Beijing
+a. Taipei, b. Taichung, c. Shenzhen
+a. Ireland, b. Scotland, c. UK
+a. Taiwan, b. Thailand, c. Vietnam
+a. Moscow, b. Warsaw, c. St. Petersburg
+a. Singapore city, b. Bahore Jaru, c. Marina Bay
+a. New York City, b. Philadelphia, c. Washington D. C.
+a. Mexico, b. Argentina, c. Brazil
+a. Rome, b. London, c. Berlin
+a. Malaysia, b. Indonesia, c. Micronesia
+a. Wellington, b. Canberra, c. Ottawa

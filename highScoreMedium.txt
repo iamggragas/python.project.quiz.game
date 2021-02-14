@@ -1,0 +1,4 @@
+akbar,0
+myName,9
+Dan,9
+rayan,4

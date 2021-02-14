@@ -1,0 +1,15 @@
+a. Warsaw, b. Lisbon, c. Bratislava
+a. South Sudan, b. South Yemen, c. South Africa
+a. Brasilia, b. Rio de Janeiro, c. Sao Paolo
+a. Buenos Aires, b. Montevideo, c. Oro Plato
+a. Libya, b. Egpyt, c. Sudan
+a. Kuwait, b. Qatar, c. UAE
+a. Riyadh, b. Mecca, c. Jeddha
+a. Delhi, b. New Delhi, c. Calcutta
+a. Sweden, b. Norway, c. Finland
+a. Nairobi, b. Dar es Salaam, c. Mogadishu
+a. Salzburg, b. Bern, c. Geneva
+a. Denmark, b. Norway, c. Germany
+a. Bogota, b. Mendellin, c. Maracaibo
+a. Spain, b. Chile, c. Bolivia
+a. Ukraine, b. Belarus, c. Moldova  

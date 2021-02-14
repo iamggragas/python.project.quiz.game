@@ -1,0 +1,15 @@
+Category: Capital 1. What is the capital of Poland?
+Category: Country 2. What country has the capital of Capetown?
+Category: Capital 3. What is the capital of Brazil?
+Category: Capital 4. What is the capital of Argentina?
+Category: Country 5. What country has a capital of Cairo?
+Category: Country 6. What country has a capital of Abu Dhabi?
+Category: Capital 7. What is the capital of Saudi Arabia?
+Category: Capital 8. What is the capital of India?
+Category: Country 9. What country has a capital of Stockholm?
+Category: Capital 10. What is  the capital of Kenya?
+Category: Capital 11. What is the capital of Switzerland?
+Category: Country 12. What country has a capital of Copenhagen?
+Category: Capital 13. What is the capital of Venezuela?
+Category: Country 14. What country has a capital of Santiago?
+Category: Country 15. What country has a capital of Kiev? 
